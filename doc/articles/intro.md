@@ -3,7 +3,7 @@ and the package is published on [NuGet](https://www.nuget.org/packages/Makaretu.
 
 It conforms to
 - [RFC 6762 - Multicast DNS](https://tools.ietf.org/html/rfc6762)
-- [RFC 6761 - DNS-Based Service Discovery](https://tools.ietf.org/html/rfc6763)
+- [RFC 6763 - DNS-Based Service Discovery](https://tools.ietf.org/html/rfc6763)
 
 The above RFCs are commonly referred to as [Bonjour](https://developer.apple.com/bonjour/) or 
 [Zero Config](http://www.zeroconf.org/).
